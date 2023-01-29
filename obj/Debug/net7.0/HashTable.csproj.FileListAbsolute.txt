@@ -1,0 +1,15 @@
+/home/ramonbarroso/HashTable/bin/Debug/net7.0/HashTable
+/home/ramonbarroso/HashTable/bin/Debug/net7.0/HashTable.deps.json
+/home/ramonbarroso/HashTable/bin/Debug/net7.0/HashTable.runtimeconfig.json
+/home/ramonbarroso/HashTable/bin/Debug/net7.0/HashTable.dll
+/home/ramonbarroso/HashTable/bin/Debug/net7.0/HashTable.pdb
+/home/ramonbarroso/HashTable/obj/Debug/net7.0/HashTable.csproj.AssemblyReference.cache
+/home/ramonbarroso/HashTable/obj/Debug/net7.0/HashTable.GeneratedMSBuildEditorConfig.editorconfig
+/home/ramonbarroso/HashTable/obj/Debug/net7.0/HashTable.AssemblyInfoInputs.cache
+/home/ramonbarroso/HashTable/obj/Debug/net7.0/HashTable.AssemblyInfo.cs
+/home/ramonbarroso/HashTable/obj/Debug/net7.0/HashTable.csproj.CoreCompileInputs.cache
+/home/ramonbarroso/HashTable/obj/Debug/net7.0/HashTable.dll
+/home/ramonbarroso/HashTable/obj/Debug/net7.0/refint/HashTable.dll
+/home/ramonbarroso/HashTable/obj/Debug/net7.0/HashTable.pdb
+/home/ramonbarroso/HashTable/obj/Debug/net7.0/HashTable.genruntimeconfig.cache
+/home/ramonbarroso/HashTable/obj/Debug/net7.0/ref/HashTable.dll
